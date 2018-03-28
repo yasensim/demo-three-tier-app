@@ -3,7 +3,7 @@
 </head>
 <body>
 <h1><b>Three Tier App - Customer List</b></h1><br>
-<img src="NSX.png" alt="NSX Image" height="10" width="20"> <br>
+<img src="NSX.png" alt="NSX Image" height="42" width="62"> <br>
 <b>Success - The HTTPS web server is able to communicate with the application server on TCP port 8443 which in turn is accessing the database on TCP port 3306 !</b><br>
 
 <br>You have accessed this application via web server:<br><br>
